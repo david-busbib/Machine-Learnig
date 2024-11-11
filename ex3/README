@@ -1,0 +1,3 @@
+Machine Learning - Exercise 3: PAC, Regularization, Ensemble Methods & Cross Validation
+This project explores the concepts of Probably Approximately Correct (PAC) learnability, VC-dimension, sample complexity, agnostic PAC,
+and ensemble methods (boosting) in machine learning. It involves both theoretical analysis and practical implementation using Python
