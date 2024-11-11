@@ -1,0 +1,12 @@
+# City Temperature and House Price Prediction
+
+This repository contains two separate machine learning projects aimed at predicting city temperatures and house prices using regression techniques.
+Both projects demonstrate data processing, model fitting, and visualization techniques that provide insights into the underlying patterns
+of temperature data and housing prices.
+
+## Requirements
+
+To set up the environment and install all necessary dependencies, run the following:
+
+```bash
+pip install -r requirements.txt
